@@ -55,7 +55,7 @@ a { color: inherit; }
   display: grid;
   min-height: 100vh;
   overflow: hidden;
-  padding: 96px clamp(22px, 7vw, 92px) 70px;
+  padding: 150px clamp(22px, 7vw, 92px) 70px;
   position: relative;
 }
 .hero-content { max-width: 760px; position: relative; z-index: 2; }
@@ -124,17 +124,6 @@ h2 { font-size: clamp(2rem, 4vw, 4.4rem); line-height: 1; }
 footer { border-top: 1px solid var(--line); color: var(--muted); padding: 28px; text-align: center; }
 [data-reveal] { opacity: 0; transform: translateY(28px); transition: opacity .8s ease, transform .8s ease; }
 [data-reveal].is-visible { opacity: 1; transform: translateY(0); }
-
-@media (max-width: 860px) {
-  .site-header { align-items: flex-start; flex-direction: column; gap: 12px; }
-  .site-header nav { flex-wrap: wrap; }
-  .hero { padding-top: 96px; }
-  .courses-list { grid-template-columns: 1fr; }
-  .floating-whatsapp strong { display: none; }
-  .floating-whatsapp { padding: 10px; }
-  .hero-card { position: relative; margin-top: 48px; border-radius: 28px; }
-  .intro-grid, .features, .body-section { grid-template-columns: 1fr; }
-}
 
 .social-actions { align-items: center; }
 .icon-btn {
@@ -228,7 +217,12 @@ footer { border-top: 1px solid var(--line); color: var(--muted); padding: 28px; 
 .floating-whatsapp { animation: floatPulse 2.8s ease-in-out infinite; }
 
 @media (max-width: 860px) {
+  .site-header { align-items: flex-start; flex-direction: column; gap: 12px; }
+  .site-header nav { flex-wrap: wrap; }
+  .hero { padding-top: 190px; }
   .courses-list { grid-template-columns: 1fr; }
   .floating-whatsapp strong { display: none; }
   .floating-whatsapp { padding: 10px; }
+  .hero-card { position: relative; margin-top: 48px; border-radius: 28px; }
+  .intro-grid, .features, .body-section { grid-template-columns: 1fr; }
 }
