@@ -23,6 +23,16 @@ async function loadContent() {
     </article>
   `).join("");
 
+  const courses = document.querySelector("[data-list='courses']");
+  if (courses && content.courses) {
+    courses.innerHTML = content.courses.map((course) => `
+      <article class="course-item" data-reveal>
+        <span aria-hidden="true"></span>
+        <p>${course}</p>
+      </article>
+    `).join("");
+  }
+
   observeReveals();
 }
 
