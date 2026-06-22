@@ -1,0 +1,47 @@
+{
+  "links": {
+    "whatsapp": "https://wa.me/5519999833478?text=Ol%C3%A1%2C%20J%C3%A9ssica!%20Quero%20agendar%20minha%20avalia%C3%A7%C3%A3o.",
+    "instagram": "https://www.instagram.com/jppersonal2026"
+  },
+  "hero": {
+    "kicker": "Personal Trainer",
+    "title": "Seu corpo, sua meta, meu compromisso.",
+    "subtitle": "Treinos personalizados, foco total e acompanhamento para transformar seu corpo e sua mente."
+  },
+  "about": {
+    "kicker": "Sobre a profissional",
+    "title": "Jéssica Nicolau Piton",
+    "summary": "Personal trainer com atendimento individualizado, olhar técnico e planejamento pensado para objetivos reais: saúde, performance, estética e confiança.",
+    "focus": "Atuação em treinos personalizados, avaliação inicial, prescrição de exercícios, acompanhamento de evolução e adaptação contínua do plano."
+  },
+  "band": {
+    "title": "Plano 100% adaptado a você",
+    "text": "Cada etapa considera seu nível atual, rotina, preferências, limitações e metas para construir uma evolução sustentável."
+  },
+  "features": [
+    {
+      "title": "Treinos personalizados",
+      "text": "Planejamento exclusivo para seus objetivos, com progressão organizada e exercícios adequados ao seu momento."
+    },
+    {
+      "title": "Acompanhamento individual",
+      "text": "Suporte, ajustes e motivação em cada etapa para manter constância e segurança nos treinos."
+    },
+    {
+      "title": "Técnica e prevenção",
+      "text": "Orientação para execução correta, controle de intensidade e construção de uma base corporal mais forte."
+    },
+    {
+      "title": "Saúde e confiança",
+      "text": "Mudanças que fortalecem o corpo, elevam a disposição e ajudam você a se sentir melhor todos os dias."
+    }
+  ],
+  "health": {
+    "title": "Mais saúde, disposição e confiança",
+    "text": "O acompanhamento combina disciplina, constância e transformação para que o treino seja parte possível e prazerosa da sua rotina."
+  },
+  "contact": {
+    "title": "Agende sua avaliação!",
+    "text": "Fale diretamente com a Jéssica pelo WhatsApp ou acompanhe conteúdos, rotina e novidades no Instagram."
+  }
+}
