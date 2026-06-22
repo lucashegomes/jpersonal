@@ -1,0 +1,59 @@
+{
+  "links": {
+    "whatsapp": "https://wa.me/5519999833478?text=Ol%C3%A1%2C%20J%C3%A9ssica!%20Quero%20agendar%20minha%20avalia%C3%A7%C3%A3o.",
+    "instagram": "https://www.instagram.com/jppersonal2026"
+  },
+  "hero": {
+    "kicker": "Personal Trainer • Educação Física",
+    "title": "Seu corpo, sua meta, meu compromisso.",
+    "subtitle": "Treinos personalizados, foco total e acompanhamento para transformar seu corpo e sua mente."
+  },
+  "about": {
+    "kicker": "Sobre a profissional",
+    "title": "Jéssica Nicolau Piton",
+    "summary": "Profissional de Educação Física formada pela Pontifícia Universidade Católica de Campinas, com atuação multidisciplinar em movimento, saúde, consciência corporal e condicionamento físico.",
+    "education": "PUC Campinas — Bacharel e Licenciatura em Educação Física. CREF 134575-G/SP • 2015.",
+    "focus": "Atuação em Pilates, Ginástica Geral, Ginástica Laboral, Setor Aquático, Dança, Capoeira, Flexibilidade, Alongamento, Condicionamento Físico, Consciência Corporal, Ginástica Funcional e Musculação."
+  },
+  "band": {
+    "title": "Movimento com técnica, propósito e constância",
+    "text": "Aulas e treinos que respeitam seu corpo, seu nível atual e seus objetivos para construir evolução sustentável."
+  },
+  "features": [
+    {
+      "title": "Formação sólida",
+      "text": "Bacharel e Licenciatura em Educação Física pela PUC Campinas, com registro CREF 134575-G/SP."
+    },
+    {
+      "title": "Pilates e consciência corporal",
+      "text": "Capacitação completa em Pilates de solo e aparelhos, com abordagem técnica para postura, controle e respiração."
+    },
+    {
+      "title": "Treinamento funcional",
+      "text": "Planejamento para flexibilidade, alongamento, condicionamento físico, musculação e ginástica funcional."
+    },
+    {
+      "title": "Vivências de movimento",
+      "text": "Experiência em dança, capoeira, ginástica geral, setor aquático e práticas corporais que ampliam repertório e autonomia."
+    }
+  ],
+  "courses": [
+    "2023 — Educação Social em Movimento: Diálogos Circulares, Práxis e Vivências — GEPPES CEI",
+    "2021 — Clínica Homeostase: aperfeiçoamento para instrutores de Mat Pilates",
+    "2018 — Voll Pilates: capacitação completa em Pilates de solo e aparelhos",
+    "2017 — Kangolates Studio: capacitação em Elastic Training",
+    "2017 — Licenciamento em ZUMBA Fitness",
+    "2013 — Dança Contemporânea — CCA",
+    "2013 — Curso intensivo de Dança Afro Brasileira",
+    "2013 — FEF Unicamp: workshops de Hope Skipping, trampolim acrobático e roda alemã",
+    "2012 — VI Fórum Internacional de Ginástica Geral — PROGIINS"
+  ],
+  "health": {
+    "title": "Mais saúde, disposição e confiança",
+    "text": "O acompanhamento combina disciplina, constância e transformação para que o treino seja parte possível e prazerosa da sua rotina."
+  },
+  "contact": {
+    "title": "Agende sua avaliação!",
+    "text": "Fale diretamente com a Jéssica pelo WhatsApp ou acompanhe conteúdos, rotina e novidades no Instagram."
+  }
+}
